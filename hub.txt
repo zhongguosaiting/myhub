@@ -3,3 +3,4 @@ shortLabel zz
 longLabel zz_hg38_data
 genomesFile genomes.txt
 email zhongguosaiting@outlook.com
+descriptionUrl description.txt
