@@ -1,0 +1,5 @@
+hub dbRIP_Hub
+shortLabel zz
+longLabel zz hg38 data
+genomesFile genomes.txt
+email zhongguosaiting@outlook.com
