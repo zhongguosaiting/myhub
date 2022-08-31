@@ -1,4 +1,4 @@
-track  cbc_kd-input_r1f
+track cbc_kd-input_r1f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/A-1_dedup_R2_f.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
@@ -6,7 +6,7 @@ type bigWig
 color 255,0,0
 maxHeightPixels 130:40:8
 visibility full
-track  cbc_kd-input_r11f
+track cbc_kd-input_r11f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/A-1_dedup_R2_r.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
@@ -14,7 +14,7 @@ type bigWig
 color 255,0,0
 maxHeightPixels 130:40:8
 visibility full
-track  cbc_kd-input_r111f
+track cbc_kd-input_r111f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/C-1_dedup_R2_f.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
@@ -22,7 +22,7 @@ type bigWig
 color 255,0,0
 maxHeightPixels 130:40:8
 visibility full
-track  cbc_kd-input_r1111f
+track cbc_kd-input_r1111f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/C-1_dedup_R2_r.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
@@ -30,7 +30,7 @@ type bigWig
 color 255,0,0
 maxHeightPixels 130:40:8
 visibility full
-track  cbc_kd-input_r11111f
+track cbc_kd-input_r11111f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/D-1_dedup_R2_f.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
@@ -38,7 +38,7 @@ type bigWig
 color 255,0,0
 maxHeightPixels 130:40:8
 visibility full
-track  cbc_kd-input_r111111f
+track cbc_kd-input_r111111f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/D-1_dedup_R2_r.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
@@ -46,7 +46,7 @@ type bigWig
 color 255,0,0
 maxHeightPixels 130:40:8
 visibility full
-track  cbc_kd-input_r11111111f
+track cbc_kd-input_r11111111f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/F-1_dedup_R2_f.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
@@ -54,7 +54,7 @@ type bigWig
 color 255,0,0
 maxHeightPixels 130:40:8
 visibility full
-track  cbc_kd-input_r2f
+track cbc_kd-input_r2f
 bigDataUrl https://github.com/zhongguosaiting/RR1/raw/main/F-1_dedup_R2_r.bw
 shortLabel cbc_kd-input_r1f
 longLabel cbc_kd-input_r1f
